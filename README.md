@@ -1,12 +1,12 @@
 
 # 👋 World, I'm Aleksandar, one of yours!
 
-I'm a backend developer with working experience in Java, C# and Go and knowedge of Python, C, and some JavaScript.
+I'm a backend developer with working experience in Java, C#, and Go and knowledge of Python, C, and some JavaScript.
 
 Loving Linux and open-source. Looking for projects to contribute.
 
 ## 🛠 Skills
-Java, C#, Go, Pyhon, C, Spring, Asp.Net, Sql Server, Postgres, Oracle, Docker, Kafka, RabbitMQ, Postman, git, Bash, Linux...
+Java, C#, Go, Python, C, Spring, ASP.NET, SQL Server, Postgres, Oracle, Docker, Kafka, RabbitMQ, Postman, git, Bash, Linux...
 
 <p align="left">
   <!-- Languages --> 
