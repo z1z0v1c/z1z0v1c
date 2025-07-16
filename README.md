@@ -1,6 +1,6 @@
 <div align="center">
   
-  ## 👋 World, I'm Aleksandar, one of yours!
+  # 👋 World, I'm Aleksandar, one of yours!
 
   I'm a backend developer with working experience in Java, C#, and Go and knowledge of Python, C, and some JavaScript.
 
